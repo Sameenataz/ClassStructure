@@ -6,7 +6,7 @@ public class MainClass {
         Person secondObject = new Person();
         Person secondObject_story120 = new Person();
         Person thirdObject = new Person();
-
+        Person fourthObject = new Person();
 
     }
 }
